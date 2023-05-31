@@ -1,6 +1,9 @@
 🌱 I’m currently learning Full-Stack Development (MERN)
+
 📫 How to reach me aavinash.singgh@gmail.com
+
 ⚡ Other skills Adobe Photoshop & Video Editing
+
 👨‍🎓 Computer Science major at Acharya Narendra Dev College (University of Delhi)
 
 <!---
