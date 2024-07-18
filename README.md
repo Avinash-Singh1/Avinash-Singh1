@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: center;">
   <img width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
-  <img width="400" hieght="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding">
+  <img width="400" hieght="200" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding">
 </div>
 
 <br>
