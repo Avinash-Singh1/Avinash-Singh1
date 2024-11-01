@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aavinashsinggh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwa9CGpbMF_BPbtkKp8qIik76xM0MmjSyFA&usqp=CAU" alt="aavinashsinggh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avinashsinghh/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="avinash singh" height="30" width="40" /></a>
 <a href="https://instagram.com/avinash.singgh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"   alt="aavinash.singgh" height="30" width="40" /></a>
 </p>
 
