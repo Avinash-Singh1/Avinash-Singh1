@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-singh1&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-singh1" /> </p>
 
 <div style="display: flex; justify-content: center;">
-  <img width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
-  <img width="380" height="252" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding">
+  <img src="https://github.com/user-attachments/assets/8077c00d-df5d-4f73-9782-7d01c06370cc" alt="Image description" />
 </div>
+
 
 <br>
 - 📫 How to reach me **aavinash.singgh@gmail.com**
@@ -73,11 +73,16 @@
 </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-singh1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-singh1&show_icons=true&locale=en&layout=compact" alt="avinash-singh1" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash-singh1&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-singh1&show_icons=true&locale=en" alt="avinash-singh1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-singh1&" alt="avinash-singh1" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-singh1&" alt="GitHub Streak Stats" />
+</p>
 
 Support 🙏
