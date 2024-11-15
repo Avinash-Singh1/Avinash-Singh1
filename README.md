@@ -81,8 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=avinash-singh1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-singh1" alt="GitHub Streak Stats" />
-</p>
+
 
 Support 🙏
